@@ -14,7 +14,8 @@ I am an undergraduate student pursuing a degree in Software Engineering. I have 
 
 ## 🌐 Projects
 
-- **DEA Web Application***: The project includes various features and pages designed to enhance the user experience and functionality.[git@github.com:mlpkodithuwakku/DEA-Web-Application.git](#) 
+- **DEA Web Application***: The project includes various features and pages designed to enhance the user experience and functionality.[git@github.com:mlpkodithuwakku/DEA-Web-Application.git](#)
+- **Orenco Web-Site***: The goal was to create a comprehensive and user-friendly website for Orenco Hotel.[git@github.com:mlpkodithuwakku/Orenco Web-Site.git](#) 
 
 ## 📫 How to Reach Me
 
