@@ -19,7 +19,7 @@ I am an undergraduate student pursuing a degree in Software Engineering. I have 
 ## 📫 How to Reach Me
 
 - **Email:** pabodinilakmi@gmail.com
-- **LinkedIn:** [Lakmi Pabodini](https://www.linkedin.com/in/lakmi-pabodini/)
+- **LinkedIn:** [Lakmi Pabodini](https://www.linkedin.com/in/lakmi-pabodini-510489255/)
 - **Facebook:** [Lakmi Pabodoni](https://www.facebook.com/profile.php?id=100088190014626)
 - **Instagram:** [Lakmi Pabodini](https://www.instagram.com/lakmipabodini/)
 - **GitHub:** [Lakmi Pabodini](https://github.com/mlpkodithuwakku)
