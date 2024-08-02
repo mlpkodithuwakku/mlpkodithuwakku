@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Lakmi Kodithuwakku
 
-<!--
-**mlpkodithuwakku/mlpkodithuwakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=your-mlpkodithuwakku&color=blue)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate student pursuing a degree in Software Engineering. I have a passion for developing web applications and working on exciting projects. 
+
+## 🚀 Skills
+
+- **Programming Languages:** JavaScript, Java, C
+- **Frameworks:** React, Node.js
+- **Tools:** Git, OpenCV
+
+## 🌐 Projects
+
+- **DEA Web Application***: The project includes various features and pages designed to enhance the user experience and functionality.[git@github.com:mlpkodithuwakku/DEA-Web-Application.git](#) 
+
+## 📫 How to Reach Me
+
+- **Email:** pabodinilakmi@gmail.com
+- **LinkedIn:** [Lakmi Pabodini](https://www.linkedin.com/in/lakmi-pabodini/)
+- **Facebook:** [Lakmi Pabodoni](https://www.facebook.com/profile.php?id=100088190014626)
+- **Instagram:** [Lakmi Pabodini](https://www.instagram.com/lakmipabodini/)
+- **GitHub:** [Lakmi Pabodini](https://github.com/mlpkodithuwakku)
+
+## 📊 GitHub Stats
+
+![Lakmi' stats](https://github-readme-stats.vercel.app/api?username=mlpkodithuwakku&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpkodithuwakku&layout=compact&theme=radical)
+
+## 🏆 Achievements
+
+- **Executive Member**: NSBM Volunteer Club.
+
+
+## 💬 Let's Connect
+
+Feel free to connect with me for collaboration or any questions you might have!
+
+---
+
+*Generated with ❤️ by Lakmi*
+
